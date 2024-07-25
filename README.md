@@ -21,23 +21,28 @@ Prática de deployment e setup de agentes de endpoint e sysmon
 ![App Screenshot](https://github.com/lucaslcg/Elastic-Security-Pratica/blob/main/Elastic-Security-Pratica/Captura%202-2.png)
 ![App Screenshot](https://github.com/lucaslcg/Elastic-Security-Pratica/blob/main/Elastic-Security-Pratica/Captura%202-3.png)
 
-** A interface e basteante intuitiva **
+**Aqui e feita a instalaçao do Elastic Agent basta abrir o Prompt de Comando colar executar eaguardar a comfirmaçao do sucesso**
+
 
 ![App Screenshot](https://github.com/lucaslcg/Elastic-Security-Pratica/blob/main/Elastic-Security-Pratica/Captura%202-4.png)
-
-
-
 ![App Screenshot](https://github.com/lucaslcg/Elastic-Security-Pratica/blob/main/Elastic-Security-Pratica/Captura%202-5.png)
 ![App Screenshot](https://github.com/lucaslcg/Elastic-Security-Pratica/blob/main/Elastic-Security-Pratica/Captura%202-6.png)
 ![App Screenshot](https://github.com/lucaslcg/Elastic-Security-Pratica/blob/main/Elastic-Security-Pratica/Captura%202-7.png)
+
+**Extremamene simples de se fazer**
+
 ![App Screenshot](https://github.com/lucaslcg/Elastic-Security-Pratica/blob/main/Elastic-Security-Pratica/Captura%202-8.png)
 ![App Screenshot](https://github.com/lucaslcg/Elastic-Security-Pratica/blob/main/Elastic-Security-Pratica/Captura%202-9.png)
 ![App Screenshot](https://github.com/lucaslcg/Elastic-Security-Pratica/blob/main/Elastic-Security-Pratica/Captura%202-10.png)
 ![App Screenshot](https://github.com/lucaslcg/Elastic-Security-Pratica/blob/main/Elastic-Security-Pratica/Captura%202-11.png)
 ![App Screenshot](https://github.com/lucaslcg/Elastic-Security-Pratica/blob/main/Elastic-Security-Pratica/Captura%202-12.png)
 
+**Aqui decido por mais um agente no mesmo host com o intuito de dar mais detalhes dos eventos da máquina, me utilizando do System Monitor (Sysmon)**
 
 ![App Screenshot](https://github.com/lucaslcg/Elastic-Security-Pratica/blob/main/Elastic-Security-Pratica/Captura%203-1.png)
+
+**Instalo o driver.** 
+
 ![App Screenshot](https://github.com/lucaslcg/Elastic-Security-Pratica/blob/main/Elastic-Security-Pratica/Captura%203-2.png)
 ![App Screenshot](https://github.com/lucaslcg/Elastic-Security-Pratica/blob/main/Elastic-Security-Pratica/Captura%203-3.png)
 ![App Screenshot](https://github.com/lucaslcg/Elastic-Security-Pratica/blob/main/Elastic-Security-Pratica/Captura%203-4.png)
