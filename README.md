@@ -46,9 +46,16 @@ Prática de deployment e setup de agentes de endpoint e sysmon
 ![App Screenshot](https://github.com/lucaslcg/Elastic-Security-Pratica/blob/main/Elastic-Security-Pratica/Captura%203-2.png)
 ![App Screenshot](https://github.com/lucaslcg/Elastic-Security-Pratica/blob/main/Elastic-Security-Pratica/Captura%203-3.png)
 ![App Screenshot](https://github.com/lucaslcg/Elastic-Security-Pratica/blob/main/Elastic-Security-Pratica/Captura%203-4.png)
+
+**escolho o agente que da suporte ao Sysmon**
+
 ![App Screenshot](https://github.com/lucaslcg/Elastic-Security-Pratica/blob/main/Elastic-Security-Pratica/Captura%203-5.png)
 ![App Screenshot](https://github.com/lucaslcg/Elastic-Security-Pratica/blob/main/Elastic-Security-Pratica/Captura%203-6.png)
 ![App Screenshot](https://github.com/lucaslcg/Elastic-Security-Pratica/blob/main/Elastic-Security-Pratica/Captura%203-7.png)
+
+**aqui que esta o detalhe e posivel usar o mesmo host pra mais de un agete ajustando esta comfiguraçoa no agente**
+
 ![App Screenshot](https://github.com/lucaslcg/Elastic-Security-Pratica/blob/main/Elastic-Security-Pratica/Captura%203-8.png)
 ![App Screenshot](https://github.com/lucaslcg/Elastic-Security-Pratica/blob/main/Elastic-Security-Pratica/Captura%203-9.png)
 
+**assim setamos um endpoint com um pouco mais de detalhes para o SIEM**
