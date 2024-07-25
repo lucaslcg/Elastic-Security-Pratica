@@ -21,7 +21,7 @@ Prática de deployment e setup de agentes de endpoint e sysmon
 ![App Screenshot](https://github.com/lucaslcg/Elastic-Security-Pratica/blob/main/Elastic-Security-Pratica/Captura%202-2.png)
 ![App Screenshot](https://github.com/lucaslcg/Elastic-Security-Pratica/blob/main/Elastic-Security-Pratica/Captura%202-3.png)
 
-**Aqui e feita a instalaçao do Elastic Agent basta abrir o Prompt de Comando colar executar eaguardar a comfirmaçao do sucesso**
+**Aqui e feita a instalaçao do Elastic Agent basta abrir o Prompt de Comando colar executar e aguardar a comfirmaçao do êxito**
 
 
 ![App Screenshot](https://github.com/lucaslcg/Elastic-Security-Pratica/blob/main/Elastic-Security-Pratica/Captura%202-4.png)
